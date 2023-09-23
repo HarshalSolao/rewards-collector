@@ -11,3 +11,6 @@ System.setProperty("webdriver.chrome.driver", "Your system folder path");
 * [Chrome Driver Page](https://googlechromelabs.github.io/chrome-for-testing/)
 
 
+## Update Email and Password into RewardsUtils.java
+
+
